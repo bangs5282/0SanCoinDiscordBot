@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0SanCoin", "0SanCoin\0SanCoin.csproj", "{0BA65575-AFC2-4996-9491-916187191CCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BA65575-AFC2-4996-9491-916187191CCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BA65575-AFC2-4996-9491-916187191CCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BA65575-AFC2-4996-9491-916187191CCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BA65575-AFC2-4996-9491-916187191CCD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0BA42B06-FD7D-4ACA-8325-F80935A44E55}
+	EndGlobalSection
+EndGlobal
